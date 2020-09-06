@@ -151,11 +151,13 @@ jQuery(document).ready(function ($) {
 
     $.ajax({
       type: "POST",
-      url: "inc/sendEmail.php",
+      url: "https://formspree.io/xlepqjlk",
+      dataType: "json",
       data: data,
       success: function (msg) {
         // Message was sent
-        if (msg == "OK") {
+        console.log(msg);
+        if (msg.ok) {
           $("#image-loader").fadeOut();
           $("#message-warning").hide();
           $("#contactForm").fadeOut();
