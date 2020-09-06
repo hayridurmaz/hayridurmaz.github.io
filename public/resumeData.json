@@ -161,6 +161,36 @@
         "category": "I participated TEDU's official mobile application development using react-native",
         "image": "teduapp.png",
         "url": "https://github.com/TEDUniversity/TEDUAPP"
+      },
+      {
+        "title": "Video-Modelling",
+        "category": " I created a generic video-playing education game for Otsimo Mobile App, using react.",
+        "image": "video-modelling.png",
+        "url": "https://github.com/otsimogames/VideoGame"
+      },
+      {
+        "title": "Appcident",
+        "category": "I participated an android mobile application project for emergencies.",
+        "image": "appcident.png",
+        "url": " https://github.com/hayridurmaz/Appcident"
+      },
+      {
+        "title": "Anatomy Platform",
+        "category": "I worked on a platform that is for medical students to learn anatomy easier. It is my senior project. Used technologies: Spring boot, React, Unity, PostgreSQL. Output data will be used on researches about anatomy learning processes.",
+        "image": "anatomy-platform.jpg",
+        "url": "https://bitbucket.org/arda_tumay/anatomygame/src/master/"
+      },
+      {
+        "title": "OliMobile",
+        "category": "I have worked on an android mobile application side of B2B handheld terminal software of Olimpos A.Ş.",
+        "image": "olimobile.png",
+        "url": "https://play.google.com/store/apps/details?id=com.olimobile&hl=tr"
+      },
+      {
+        "title": "VisuaLearn",
+        "category": "We created a mobile application for children to learn the world with their smartphones. Application detects colors, objects and texts, then tries to teach those to the children",
+        "image": "visualearn.png",
+        "url": "https://play.google.com/store/apps/details?id=tr.edu.tedu.visualearn&hl=tr"
       }
     ]
   },
