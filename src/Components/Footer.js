@@ -21,7 +21,7 @@ class Footer extends Component {
             <ul className="social-links">{networks}</ul>
 
             <ul className="copyright">
-              <li>&copy; Copyright 2020 Hayri DURMAZ</li>
+              <li>&copy; Copyright Since 2020 Hayri DURMAZ</li>
               <li>
                 Thanks Tim Baker for opensourcing{" "}
                 <a
