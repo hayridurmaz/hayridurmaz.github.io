@@ -10,6 +10,6 @@ npm run deploy
 
 !!!NOTE!!!
 
-**Paste Personel Access Token as Password while logging in**
+**Paste Personel Access Token (which is on PAT.txt) as Password while logging in**
 
 2. Run build on github actions (may not be needed)
