@@ -102,7 +102,7 @@
     "skills": [
       {
         "name": "Java",
-        "level": "70%"
+        "level": "80%"
       },
       {
         "name": " C/C++",
@@ -114,7 +114,15 @@
       },
       {
         "name": "Python",
+        "level": "70%"
+      },
+      {
+        "name": "Go",
         "level": "60%"
+      },
+      {
+        "name": "Sql & NoSql",
+        "level": "80%"
       },
       {
         "name": " Javascript/Typescript",
@@ -137,20 +145,36 @@
         "level": "70%"
       },
       {
-        "name": "Git",
-        "level": "80%"
-      },
-      {
-        "name": "Sql & NoSql",
-        "level": "80%"
-      },
-      {
         "name": "Unity",
+        "level": "80%"
+      },
+      {
+        "name": "Tensorflow/keras",
+        "level": "80%"
+      },
+      {
+        "name": "Pytorch",
+        "level": "80%"
+      },
+      {
+        "name": "Apache Kafka",
+        "level": "60%"
+      },
+      {
+        "name": "Git",
         "level": "80%"
       },
       {
         "name": "Linux",
         "level": "70%"
+      },
+      {
+        "name": "Agile / Scrum",
+        "level": "85%"
+      },
+      {
+        "name": "Waterfall",
+        "level": "85%"
       }
     ]
   },
