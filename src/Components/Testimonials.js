@@ -10,7 +10,7 @@ class Testimonials extends Component {
           <li key={testimonials.user}>
             <blockquote>
               <p>{testimonials.text}</p>
-              <cite>{testimonials.user}</cite>
+              {/* <cite>{testimonials.user}</cite> */}
             </blockquote>
           </li>
         );

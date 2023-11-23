@@ -9,10 +9,10 @@
     "email": "durmaz20@itu.edu.tr",
     "phone": "555-555-5555",
     "address": {
-      "street": "Teknopark Ankara, Ivedik OSB Cd. No:1 D Blok",
+      "street": "ASELSAN Konya Yolu 8. Km, Oğulbey Mah. 3051. Sok. No:3, 06830 Ankara, Türkiye",
       "city": "Ankara",
       "state": "Turkey",
-      "zip": "06378"
+      "zip": "06830"
     },
     "website": "https://hayridurmaz.github.io/",
     "resumedownload": "https://hayridurmaz.github.io/cv.pdf",
@@ -226,6 +226,10 @@
       },
       {
         "text": "Elif Erkul Ceylan / Team Leader / ASELSAN: eerkul@aselsan.com.tr",
+        "user": " "
+      },
+      {
+        "text": "Dr. Tayfun Kucukyilmaz / Lecturer  / Erasmus University Rotterdam: kucukyilmaz@rsm.nl",
         "user": " "
       }
     ]

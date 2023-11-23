@@ -5,6 +5,7 @@
 1. First deploy;
 
 ```
+set NODE_OPTIONS=--openssl-legacy-provider (Not düzeltilmiş olmalı)
 npm run deploy
 ```
 
