@@ -2,7 +2,7 @@
   "main": {
     "name": "Hayri DURMAZ",
     "occupation": "Software Engineer",
-    "description": "Currently working in ASELSAN A.S. and Master Student at ITU",
+    "description": "Currently working in ASELSAN A.S.",
     "image": "profilepic.jpg",
     "bio": "I have been very interested in computer science since I was a child and that makes me a hard-working, productive, creative computer engineer. I am able to adapt to team working, and willing to learn new technologies. ",
     "contactmessage": "Contact me if I can help you with anything or maybe you just liked me?",
@@ -45,7 +45,7 @@
       {
         "school": "Istanbul Technical University, Istanbul (Turkey)",
         "degree": "Master's degree",
-        "graduated": "10/02/2020–Present",
+        "graduated": "10/02/2020–26/02/2024",
         "description": "Enhanced cyber-security using deep learning based behavioral biometrics for command and control applications."
       },
       {
