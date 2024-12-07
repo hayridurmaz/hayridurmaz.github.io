@@ -24,7 +24,9 @@ class Resume extends Component {
               {work.title}
               <span>&bull;</span> <em className="date">{work.years}</em>
             </p>
-            <p>{work.description}</p>
+              {work.description.split("•").map(desc=> {
+                  return desc.length !== 0 ? <p>• {desc}</p>:<p></p>
+              })}
           </div>
         );
       });
