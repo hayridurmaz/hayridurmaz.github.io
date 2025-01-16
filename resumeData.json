@@ -1,12 +1,12 @@
 {
   "main": {
     "name": "Hayri DURMAZ",
-    "occupation": "Software Engineer",
+    "occupation": "Senior Software Engineer",
     "description": "Currently working in ASELSAN A.S.",
     "image": "profilepic.jpg",
-    "bio": "I have been very interested in computer science since I was a child and that makes me a hard-working, productive, creative computer engineer. I am able to adapt to team working, and willing to learn new technologies. ",
+    "bio": "Passionate Full Stack Software Engineer with a strong focus on Backend Technologies. Experienced in Agile environments, I thrive in team settings and am eager to learn new technologies.",
     "contactmessage": "Contact me if I can help you with anything or maybe you just liked me?",
-    "email": "durmaz20@itu.edu.tr",
+    "email": "hayridurmaz52[at]gmail.com",
     "phone": "555-555-5555",
     "address": {
       "street": "ASELSAN Konya Yolu 8. Km, Oğulbey Mah. 3051. Sok. No:3, 06830 Ankara, Türkiye",
@@ -40,7 +40,7 @@
     ]
   },
   "resume": {
-    "skillmessage": "Here you can create a short write-up of your skills to show off to employers",
+    "skillmessage": "Wanna see my skills?",
     "education": [
       {
         "school": "Istanbul Technical University, Istanbul (Turkey)",
