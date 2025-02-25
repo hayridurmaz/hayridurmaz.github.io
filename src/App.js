@@ -10,7 +10,7 @@ import Contact from './Components/Contact';
 import Testimonials from './Components/Testimonials';
 import Portfolio from './Components/Portfolio';
 import {initializeApp} from 'firebase/app';
-import {getAnalytics} from "firebase/analytics";
+import {getAnalytics, logEvent} from "firebase/analytics";
 import {getFirestore, collection, getDocs} from "firebase/firestore";
 
 class App extends Component {
@@ -57,6 +57,13 @@ class App extends Component {
 
         // Initialize Firebase
         const app = initializeApp(firebaseConfig);
+        const analytics = getAnalytics(app);
+        const response = await fetch('https://geolocation-db.com/json/');
+        const data = await response.json();
+        logEvent(analytics, 'screen_view', {
+            firebase_screen: "MAIN_SCREEN",
+            firebase_screen_class: data?.country_name,
+        });
         const db = getFirestore(app);
         const querySnapshot = await getDocs(collection(db, "certificates"));
         let certs = []
